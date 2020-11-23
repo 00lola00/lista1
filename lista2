@@ -1,0 +1,7 @@
+#EXTM3U 
+
+#EXTINF:-1 ,lista1
+http://universesat.net:8000/get.php?username=Kavkom&password=wHs1rYsBER&type=m3u
+
+#EXTINF:-1 ,lista2
+ttps://www.achoapps.com/listas/adultos.m3u
